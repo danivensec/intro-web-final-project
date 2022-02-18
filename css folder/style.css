@@ -3,13 +3,14 @@ body{
     background-color:#FFFFFF;
 }
 .header{
-   background-color:#FFF1E6;
+   background-color:#F5E0D3;
    padding:10px 10px 10px 10px;
    margin:0px;
    font-family:display;
    font-style:italic ;
    overflow:auto;
    font-family: 'Fugaz One', cursive;
+   font-size:30px;
 }
 
 .option li {
@@ -41,4 +42,9 @@ body{
 }
 .option a:hover{
     background-color:#E8D9C5;
+}
+#logo{
+  float:left;
+  
+
 }
